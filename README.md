@@ -3,7 +3,7 @@ Atualização Visual YTDLP 1.1 Beta
 
 Video: https://youtu.be/YvBgzqpdEio
 
-Português Brasil:_______________________________________________________________________________________________________________________________
+Português Brasil:___________________________________________________________________________________________________________________________________
 Fixado por Marcos Peres
 @Marcosfeperes
 Download Visual YT-DLP 1.1 Beta: https://drive.google.com/file/d/1bdoQ9QzolpmKvccR9tbAwME8uxdm_B12/view?usp=drive_link
@@ -13,10 +13,10 @@ Funcionamento: utiliza o yt-dlp, faz código estruturado, cria um arquivo .bat p
 
 Aqui é o download do Projeto Visual Studio 2022, para quem quiser ver o código fonte:
 https://drive.google.com/file/d/17AyH-wGvrDwPvvcKdA5zdUSgSLbql37l/view?usp=drive_link
-________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
 
 
-Inglês:_________________________________________________________________________________________________________________________________________
+Inglês:_____________________________________________________________________________________________________________________________________________
 Pinned by Marcos Peres
 @Marcosfeperes
 Download Visual YT-DLP 1.1 Beta: https://drive.google.com/file/d/1bdoQ9QzolpmKvccR9tbAwME8uxdm_B12/view?usp=drive_link
@@ -26,7 +26,7 @@ How it works: uses yt-dlp, creates structured code, creates a .bat file to downl
 
 Here is the Visual Studio 2022 Project download, for those who want to see the source code:
 https://drive.google.com/file/d/17AyH-wGvrDwPvvcKdA5zdUSgSLbql37l/view?usp=drive_link
-________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
 
 Faça o bem!
 @wperess
